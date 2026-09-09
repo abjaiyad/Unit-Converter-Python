@@ -1,54 +1,42 @@
-# 🔄 Unit Converter (Python)
+# 🔄 Unit Converter — Python
 
-A simple menu-driven Unit Converter built using Python. This project allows users to perform different unit conversions through an interactive console interface.
+A simple menu-driven unit converter built with Python. The project is designed to practice loops, conditionals, user input, and basic mathematical conversions.
 
-## 🚀 Features
+## ✨ Features
 
-* Kilometer ➜ Meter
-* Celsius ➜ Fahrenheit
-* Kilogram ➜ Gram
-* Minutes ➜ Hours & Minutes
-* Indian Rupees ➜ US Dollars
-* Menu-driven interface
-* Continuous execution until Exit option is selected
+- Kilometer → Meter
+- Celsius → Fahrenheit
+- Kilogram → Gram
+- Minutes → Hours
+- Indian Rupees → US Dollars
+- Continuous menu until exit
 
-## 🛠️ Technologies Used
+## 🛠️ Concepts Used
 
-* Python 3
-* Loops (`while`)
-* Conditional Statements (`if-elif-else`)
-* User Input Handling
-* Mathematical Operations
+- Python 3
+- `while` loops
+- `if-elif-else`
+- User input and output
+- Mathematical operations
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```text
 Unit-Converter-Python/
-│── unit_converter.py
-│── README.md
+├── unit_converter.py
+├── README.md
+└── .gitignore
 ```
 
-## ▶️ How to Run
-
-1. Clone the repository:
+## ▶️ Run
 
 ```bash
 git clone https://github.com/abjaiyad/Unit-Converter-Python.git
-```
-
-2. Move into the project directory:
-
-```bash
 cd Unit-Converter-Python
-```
-
-3. Run the program:
-
-```bash
 python unit_converter.py
 ```
 
-## 📸 Sample Output
+## 📸 Sample Menu
 
 ```text
 ===== UNIT CONVERTER =====
@@ -60,18 +48,11 @@ python unit_converter.py
 6. Exit
 ```
 
-## 🎯 Learning Outcomes
+## 🎯 Learning Outcome
 
-Through this project, I practiced:
-
-* Python loops
-* Conditional statements
-* Menu-driven programs
-* User input validation
-* Basic problem-solving skills
+This project helped me practice menu-driven programming and apply Python fundamentals to a practical utility.
 
 ## 👨‍💻 Author
 
-**Amad Bin Jaiyad**
-
-GitHub: https://github.com/abjaiyad
+**Amad Bin Jaiyad**  
+BCA Student | Python & SQL Learner
